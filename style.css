@@ -1,0 +1,10 @@
+body{
+    background-color: cadetblue;
+    color:black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 300%;
+}
+
+.text{
+    text-align: center;
+}
