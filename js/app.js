@@ -3,16 +3,16 @@
 import { showAge, addNumbers,  greet, fullName, rectanglePerimeter, triangleSides,
 squareNumber, animmalInfo,  sayHello, printNames  } from "./function.js";
 
-// showAge(20);
-// addNumbers(3, 7);
-// greet("Ulugbek");
-// fullName('Ali', 'Valiyev');
-// rectanglePerimeter(5, 3);
-// triangleSides(3, 4, 5);
-// squareNumber(5);
-// animmalInfo('Mushuk', 2);
-// sayHello('Salom Dunyo!');
-// printNames('Ali','Vali', 'Gulbahor', 'Zilola', 'Javohir');
+showAge(20);
+addNumbers(3, 7);
+greet("Ulugbek");
+fullName('Ali', 'Valiyev');
+rectanglePerimeter(5, 3);
+triangleSides(3, 4, 5);
+squareNumber(5);
+animmalInfo('Mushuk', 2);
+sayHello('Salom Dunyo!');
+printNames('Ali','Vali', 'Gulbahor', 'Zilola', 'Javohir');
 
 
 
@@ -20,7 +20,7 @@ squareNumber, animmalInfo,  sayHello, printNames  } from "./function.js";
 
 
 
-// showAge(20) 
+
 
 // function showAge(age) {
 //     console.log(`sizning yoshingiz ${age}`)
