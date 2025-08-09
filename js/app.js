@@ -1,11 +1,31 @@
 // 1 - masala 3 tasi
 
+import { showAge, addNumbers,  greet, fullName, rectanglePerimeter, triangleSides,
+squareNumber, animmalInfo,  sayHello, printNames  } from "./function.js";
+
+// showAge(20);
+// addNumbers(3, 7);
+// greet("Ulugbek");
+// fullName('Ali', 'Valiyev');
+// rectanglePerimeter(5, 3);
+// triangleSides(3, 4, 5);
+// squareNumber(5);
+// animmalInfo('Mushuk', 2);
+// sayHello('Salom Dunyo!');
+// printNames('Ali','Vali', 'Gulbahor', 'Zilola', 'Javohir');
+
+
+
+
+
+
+
+// showAge(20) 
 
 // function showAge(age) {
 //     console.log(`sizning yoshingiz ${age}`)
 // }
 
-// showAge(20)
 
 // 2
 
@@ -21,8 +41,10 @@
 
 // showAge(20)
 
+
 //   ///////////
 // 2 - masala 3tasi
+
 
 // function addNumbers(a, b) {
 //     console.log(a + b );
@@ -49,8 +71,7 @@
 // function greet(name) {
 //     console.log(`Salom, ${name}!`);
 // }
-
-// greet('Ulugbek');
+//  greet('Ulugbek')
 
 // 2
 
@@ -134,7 +155,7 @@
 //     console.log(`3-tomon: ${c}`)
 //   };
 //   triangleSides(3, 4, 5);
- 
+
 ////////////
 //   7 - masala
 // function squareNumber(number){
@@ -225,3 +246,13 @@
 
 // }
 // printNames('Ali','Vali', 'Gulbahor', 'Zilola', 'Javohir')
+
+
+
+
+
+
+
+
+
+
